@@ -21,13 +21,6 @@
 
 ---
 
-## 📈 GitHub Stats
-![Aarushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aarushi2803&show_icons=true&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Aarushi2803&theme=radical)
-
----
-
 ## 🌐 Coding Profiles
 - 💡 LeetCode: [https://leetcode.com/your-username ](https://leetcode.com/u/shi_28/) 
 - 🧠 Codeforces: [https://codeforces.com/profile/your-id  ](https://codeforces.com/profile/shi_28)
