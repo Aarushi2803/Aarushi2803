@@ -7,11 +7,13 @@
 ---
 
 ## 🛠 Tech Stack
-- HTML, CSS, JavaScript  
+- HTML, CSS, JavaScript
+- Tailwind CSS, Bootstrap
+- MERN Stack (MongoDB, Express, React, Node.js) 
 - React  
 - C, C++, Java  
 - SQL, Python (NumPy, Pandas)  
-- Tailwind CSS, Bootstrap  
+
 
 ---
 
