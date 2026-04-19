@@ -1,4 +1,5 @@
 # Hi 👋, I'm Aarushi Mandloi  
+https://aarushimandloiportfolio.netlify.app/
 
 💻 Full Stack Developer (MERN)  
 🤖 Building AI-powered web applications  
