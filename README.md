@@ -43,32 +43,6 @@ https://aarushimandloiportfolio.netlify.app/
 
 ---
 
-## 📌 Projects  
-
-### 🍔 Swiggy Clone (MERN)
-- Developed a food delivery web app with authentication and cart system  
-- Features: user login/signup, add to cart, order flow  
-- Tech Stack: React, Node.js, Express, MongoDB  
-- 🔗 Live: _Coming Soon_  
-- 💻 GitHub: __  
-
----
-
-### 🌾 Smart Farming Assistant  
-- Built a system to assist farmers with crop-related insights  
-- Focused on data-driven recommendations  
-- Tech Stack: Python, Data Analysis  
-- 🔗 Demo: _Add Link_  
-- 💻 GitHub: _Add Link_  
-
----
-
-### 🚧 Upcoming Projects  
-- 🤖 AI Content Generator (for creators)  
-- 📊 Advanced Dashboard with analytics  
-
----
-
 ## 🧠 Coding Profiles  
 
 - 💡 LeetCode: https://leetcode.com/u/shi_28/  
