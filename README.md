@@ -1,7 +1,7 @@
 # Hi 👋, I'm Aarushi Mandloi  
 https://aarushimandloiportfolio.netlify.app/
 
-💻 Full Stack Developer (MERN)  
+💻 Data Analysis
 🤖 Building AI-powered web applications  
 🚀 Focused on scalable backend systems & real-world problem solving  
 🎓 IIT Madras (IITM) BS in Data Science & Programming  
@@ -34,8 +34,11 @@ https://aarushimandloiportfolio.netlify.app/
 
 ### 📊 Data & AI  
 - Python  
-- Pandas, NumPy  
-
+- Pandas, NumPy ,Matplotlib ,Seaborn 
+- Power-BI
+- Excel
+- Google Sheets
+  
 ### 🧰 Tools  
 - Git & GitHub  
 - Postman  
